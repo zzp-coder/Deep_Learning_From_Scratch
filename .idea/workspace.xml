@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36644305-acba-4a13-bfc6-2cc6d1f681a9" name="Changes" comment="minor change of slides in chapter02">
+      <change afterPath="$PROJECT_DIR$/Slides/Chapter03 Neural Network.mov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slides/Chapter03 Neural_Network.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/hungry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/lena.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/man.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/show_fig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/sin_cos_fig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01/sin_fig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/0_1layer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/layer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/load_mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/mnist dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/mnist_show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/neuralnet_mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/relu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/sample_weight.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/sigmoid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/softmax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/step_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/TwoLayerNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/cross_entropy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/func_fig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/gradient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/gradient_descent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/gradient_simplenet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/mean_squared.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/mini_batch_cross_entropy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/numerical_diff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/train_neuralnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/buy_apple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/buy_apple_orange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/gradient_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/layer_naive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/layers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/train_neuralnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/two_layer_net.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Slides/Chapter02 Perceptron.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Slides/Chapter02 Perceptron.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02_zzp/Multilayer Perceptron.ipynb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zzp-coder&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/zzp-coder/Deep_Learning_From_Scratch&quot;,
+    &quot;accountId&quot;: &quot;2a1d6323-7586-4bc8-b927-4690f8d77539&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2wMi6hSiE5i0KyIiJnmIifqJrD0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.0_1layer.executor": "Run",
+    "Python.AND.executor": "Run",
+    "Python.XOR.executor": "Run",
+    "Python.batch_predict.executor": "Run",
+    "Python.buy_apple.executor": "Run",
+    "Python.buy_apple_orange.executor": "Run",
+    "Python.cat.executor": "Run",
+    "Python.cross_entropy.executor": "Run",
+    "Python.func_fig.executor": "Run",
+    "Python.gradient.executor": "Run",
+    "Python.gradient_check.executor": "Run",
+    "Python.gradient_descent.executor": "Run",
+    "Python.gradient_simplenet.executor": "Run",
+    "Python.hungry.executor": "Run",
+    "Python.layer.executor": "Run",
+    "Python.loss_function.executor": "Run",
+    "Python.mini_batch_cross_entropy.executor": "Run",
+    "Python.mnist dataset.executor": "Run",
+    "Python.mnist_dataset.executor": "Run",
+    "Python.mnist_show.executor": "Run",
+    "Python.neuralnet_mnist.executor": "Run",
+    "Python.numerical_diff.executor": "Run",
+    "Python.relu.executor": "Run",
+    "Python.show_fig.executor": "Run",
+    "Python.show_mnist.executor": "Run",
+    "Python.sigmoid.executor": "Run",
+    "Python.sin_cos_fig.executor": "Run",
+    "Python.sin_fig.executor": "Run",
+    "Python.softmax.executor": "Run",
+    "Python.step_function.executor": "Run",
+    "Python.three_layer_nn.executor": "Run",
+    "Python.three_layer_nn_steps.executor": "Run",
+    "Python.train_neuralnet.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ui21149/PycharmProjects/deep_learning_from_scratch/ch04",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch04" />
+      <recent name="$PROJECT_DIR$/ch03" />
+      <recent name="$PROJECT_DIR$/ch01" />
+      <recent name="$PROJECT_DIR$/ch03_zzp" />
+      <recent name="$PROJECT_DIR$/cho3_zzp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch03_zzp/pictures" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="deep_learning_from_scratch" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="deep_learning_from_scratch" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.26775.22" />
+        <option value="bundled-python-sdk-9f73701ac511-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.26775.22" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36644305-acba-4a13-bfc6-2cc6d1f681a9" name="Changes" comment="" />
+      <created>1745857669554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745857669554</updated>
+      <workItem from="1745857670899" duration="350000" />
+      <workItem from="1745858027289" duration="11000" />
+      <workItem from="1745865391391" duration="6498000" />
+      <workItem from="1746034277258" duration="32098000" />
+      <workItem from="1746872813966" duration="26000" />
+      <workItem from="1747145713663" duration="3318000" />
+      <workItem from="1748706198212" duration="3413000" />
+      <workItem from="1748954305790" duration="1196000" />
+      <workItem from="1749415625400" duration="2000" />
+      <workItem from="1755850843606" duration="79336000" />
+      <workItem from="1757922171644" duration="4000" />
+      <workItem from="1758425589585" duration="21722000" />
+      <workItem from="1758533001567" duration="31667000" />
+    </task>
+    <task id="LOCAL-00001" summary="code in chapter02">
+      <option name="closed" value="true" />
+      <created>1745857709335</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745857709335</updated>
+    </task>
+    <task id="LOCAL-00002" summary="code in chapter02">
+      <option name="closed" value="true" />
+      <created>1745865485007</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745865485007</updated>
+    </task>
+    <task id="LOCAL-00003" summary="slides of chapter02">
+      <option name="closed" value="true" />
+      <created>1745865921906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745865921906</updated>
+    </task>
+    <task id="LOCAL-00004" summary="minor change of slides in chapter02">
+      <option name="closed" value="true" />
+      <created>1745866016305</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745866016305</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code in chapter02" />
+    <MESSAGE value="slides of chapter02" />
+    <MESSAGE value="minor change of slides in chapter02" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor change of slides in chapter02" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$AND.coverage" NAME="AND Coverage Results" MODIFIED="1756095326088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_zzp" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$numerical_diff.coverage" NAME="numerical_diff Coverage Results" MODIFIED="1756901170278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$three_layer_nn_steps.coverage" NAME="three_layer_nn_steps Coverage Results" MODIFIED="1746365875167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_zzp" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$buy_apple.coverage" NAME="buy_apple Coverage Results" MODIFIED="1758698525268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$gradient_simplenet.coverage" NAME="gradient_simplenet Coverage Results" MODIFIED="1756989644497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$0_1layer.coverage" NAME="0_1layer Coverage Results" MODIFIED="1756537373357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$cross_entropy.coverage" NAME="cross_entropy Coverage Results" MODIFIED="1756888005277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$batch_predict.coverage" NAME="batch_predict Coverage Results" MODIFIED="1746372959518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_zzp" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$gradient.coverage" NAME="gradient Coverage Results" MODIFIED="1756983592731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$step_function.coverage" NAME="step_function Coverage Results" MODIFIED="1756471992710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$mini_batch_cross_entropy.coverage" NAME="mini_batch_cross_entropy Coverage Results" MODIFIED="1756888517323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$cat.coverage" NAME="cat Coverage Results" MODIFIED="1758685703210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$sin_cos_fig.coverage" NAME="sin_cos_fig Coverage Results" MODIFIED="1756018463623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$train_neuralnet.coverage" NAME="train_neuralnet Coverage Results" MODIFIED="1758888163797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$three_layer_nn.coverage" NAME="three_layer_nn Coverage Results" MODIFIED="1746365973949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_zzp" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$sin_fig.coverage" NAME="sin_fig Coverage Results" MODIFIED="1756018295302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$XOR.coverage" NAME="XOR Coverage Results" MODIFIED="1756268220762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02_zzp" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$loss_function.coverage" NAME="loss_function Coverage Results" MODIFIED="1756873723677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$gradient_descent.coverage" NAME="gradient_descent Coverage Results" MODIFIED="1756984634628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$softmax.coverage" NAME="softmax Coverage Results" MODIFIED="1756542063869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$hungry.coverage" NAME="hungry Coverage Results" MODIFIED="1755948272557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$sigmoid.coverage" NAME="sigmoid Coverage Results" MODIFIED="1756472348930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$func_fig.coverage" NAME="func_fig Coverage Results" MODIFIED="1756983227566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$gradient_check.coverage" NAME="gradient_check Coverage Results" MODIFIED="1758888390093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$show_mnist.coverage" NAME="show_mnist Coverage Results" MODIFIED="1746371045265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03_zzp" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$relu.coverage" NAME="relu Coverage Results" MODIFIED="1756473056281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$neuralnet_mnist.coverage" NAME="neuralnet_mnist Coverage Results" MODIFIED="1756730733147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$buy_apple_orange.coverage" NAME="buy_apple_orange Coverage Results" MODIFIED="1758698751807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$layer.coverage" NAME="layer Coverage Results" MODIFIED="1756537921601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$mnist_dataset.coverage" NAME="mnist dataset Coverage Results" MODIFIED="1758425783710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$show_fig.coverage" NAME="show_fig Coverage Results" MODIFIED="1756018545315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01" />
+    <SUITE FILE_PATH="coverage/deep_learning_from_scratch$mnist_show.coverage" NAME="mnist_show Coverage Results" MODIFIED="1756720953295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch03" />
+  </component>
+</project>
